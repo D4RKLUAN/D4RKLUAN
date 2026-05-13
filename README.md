@@ -16,7 +16,7 @@ Belo Horizonte, MG — Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luandsr-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/luandsr)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-D4RKLUAN-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![Email](https://img.shields.io/badge/Email-luanddlsln075@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luanddlsln075@gmail.com)
+[![Email](https://img.shields.io/badge/Email-luanddlsln075@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luanrodrigueshs@gmail.com)
 
 </div>
 
