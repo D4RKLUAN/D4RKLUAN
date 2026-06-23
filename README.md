@@ -1,256 +1,405 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗██████╗ ██╗  ██╗██╗     ██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║  ██║██╔══██╗██║ ██╔╝██║     ██║   ██║██╔══██╗████╗  ██║
-██║  ██║███████║██████╔╝█████╔╝ ██║     ██║   ██║███████║██╔██╗ ██║
-██║  ██║╚════██║██╔══██╗██╔═██╗ ██║     ██║   ██║██╔══██║██║╚██╗██║
-██████╔╝     ██║██║  ██║██║  ██╗███████╗╚██████╔╝██║  ██║██║ ╚████║
-╚═════╝      ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF88,100:0A66C2&height=180&section=header&text=Luan%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Application%20Security%20%E2%80%A2%20Incident%20Response&descAlignY=58&descSize=16" />
 
-### Cybersecurity Analyst | Application Security | Incident Response | IT Support N2/N3
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=950&lines=Cloudflare+WAF+%E2%80%A2+Microsoft+Defender+%E2%80%A2+ThreatX;Application+Security+%E2%80%A2+Incident+Response+%E2%80%A2+SOC;IT+Support+N2%2FN3+%E2%80%A2+Security+Operations;Founder+of+autosla.com.br;Building+Products+and+Protecting+Systems" />
 
-📍 Belo Horizonte, MG — Brazil
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luandsr-0A66C2?style=flat-square\&logo=linkedin)](https://linkedin.com/in/luandsr)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-D4RKLUAN-9FEF00?style=flat-square\&logo=hackthebox\&logoColor=black)](https://hackthebox.com)
-[![Email](https://img.shields.io/badge/Email-luanddlsln075@gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:luanddlsln075@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Project-autosla.com.br-111827?style=flat-square\&logo=vercel\&logoColor=white)](https://autosla.com.br)
+<p>
+  <img src="https://img.shields.io/badge/Belo%20Horizonte%2C%20MG-Brazil-00FF88?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20to-Cybersecurity%20Roles-0A66C2?style=for-the-badge&logo=target&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/luandsr">
+    <img src="https://img.shields.io/badge/LinkedIn-luandsr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://autosla.com.br">
+    <img src="https://img.shields.io/badge/autosla.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:luanddlsln075@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>🛡️ Defense</b><br>
+      WAF • EDR • SIEM
+    </td>
+    <td align="center">
+      <b>🔎 Investigation</b><br>
+      Logs • IOCs • Incidents
+    </td>
+    <td align="center">
+      <b>⚙️ Automation</b><br>
+      Python • Scripts • Ops
+    </td>
+    <td align="center">
+      <b>🚗 Product</b><br>
+      autosla.com.br
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=D4RKLUAN&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
 
 </div>
 
 ---
 
-## > whoami
+<div align="center">
 
-```python
-class D4RKLUAN:
-    name        = "Luan Rodrigues"
-    location    = "Belo Horizonte, MG - Brazil"
-    role        = "Cybersecurity Analyst | IT Support & Security Analyst"
-    experience  = ["Application Security", "Incident Response", "WAF", "EDR", "Cloud Security", "IT Support N2/N3"]
-    focus       = ["SOC", "Blue Team", "AppSec", "Cloud Security", "Security Automation"]
-    building    = ["autosla.com.br", "Security Labs", "Automation Projects"]
-    learning    = ["Web Application Security", "Threat Hunting", "Cloud Security", "Pentest Web"]
-    open_to     = "Cybersecurity Analyst · SOC Analyst · AppSec · Incident Response"
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FF88&height=2&section=header" />
+
+</div>
+
+## 🚀 Sobre mim
+
+Sou profissional de Tecnologia da Informação com experiência em **Cibersegurança**, **Segurança de Aplicações**, **Resposta a Incidentes**, **Cloud Security** e **Suporte Corporativo N2/N3**.
+
+Atuei em ambientes produtivos protegendo aplicações web, investigando alertas, analisando logs, mitigando ataques e apoiando operações de segurança com ferramentas como **Cloudflare WAF**, **Microsoft Defender**, **SentinelOne**, **ThreatX** e **Azure Security**.
+
+Além da área de segurança, também construo produtos digitais. Sou fundador da **autosla**, uma plataforma automotiva full-stack criada para conectar motoristas a oficinas, autopeças, lava-jatos, guinchos e prestadores de serviços.
+
+---
+
+<div align="center">
+
+## 🧭 Current Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=Application+Security;Incident+Response;SOC+%2F+Blue+Team;Cloud+Security;Security+Automation;Web+Pentesting" />
+
+</div>
+
+---
+
+## 🏆 Career Highlights
+
+<table>
+  <tr>
+    <td><b>🔐 Cybersecurity Analyst</b></td>
+    <td>123milhas</td>
+    <td>WAF • EDR • Incident Response • Azure Security</td>
+  </tr>
+  <tr>
+    <td><b>🖥️ IT Support & Security Analyst</b></td>
+    <td>allu.</td>
+    <td>Logs • Python Automation • Databases • Security Operations</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ IT Support N2/N3</b></td>
+    <td>123milhas</td>
+    <td>Windows • Linux • Networks • Corporate Infrastructure</td>
+  </tr>
+  <tr>
+    <td><b>🚗 Founder</b></td>
+    <td>autosla</td>
+    <td>Next.js • Supabase • Cloudflare • Google Maps • Payments</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛡️ Security Stack
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,azure" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloudflare_WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/SentinelOne-7B2ABF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ThreatX-WAAP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIEM-Monitoring-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDR-Endpoint_Security-1E293B?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Incident_Response-0052CC?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Development Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase,postgres,mongodb,mysql,go,python,flask,cloudflare" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Projetos em Destaque
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Real+World+Projects;Security+Automation;Full-Stack+Products;Automotive+Marketplace;Cybersecurity+Labs" />
+
+</div>
+
+---
+
+## 🚗 autosla — Automotive Services Platform
+
+<a href="https://autosla.com.br">
+  <img src="https://img.shields.io/badge/Live_Project-autosla.com.br-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+Plataforma automotiva full-stack desenvolvida para conectar proprietários de veículos a oficinas, autopeças, lava-jatos, guinchos e prestadores de serviços automotivos.
+
+### Stack
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-FF6600?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=flat-square" />
+
+### Funcionalidades
+
+<table>
+  <tr>
+    <td>🗺️ Mapa interativo</td>
+    <td>📍 Busca por categoria e região</td>
+  </tr>
+  <tr>
+    <td>🏪 Perfil de estabelecimento</td>
+    <td>📅 Agendamento online</td>
+  </tr>
+  <tr>
+    <td>💬 Chat em tempo real</td>
+    <td>💳 Pagamentos e assinaturas</td>
+  </tr>
+  <tr>
+    <td>📊 Dashboard operacional</td>
+    <td>⭐ Sistema de avaliações</td>
+  </tr>
+</table>
+
+---
+
+## 🔒 Mini-GPO — Corporate Endpoint Management
+
+Sistema corporativo para gerenciamento remoto de endpoints com agente leve e dashboard administrativo.
+
+<table>
+  <tr>
+    <td><b>Stack</b></td>
+    <td>Go • Python • Flask • MQTT • PostgreSQL • AES-256</td>
+  </tr>
+  <tr>
+    <td><b>Recursos</b></td>
+    <td>Gerenciamento remoto • Auditoria • Fila offline • Criptografia</td>
+  </tr>
+  <tr>
+    <td><b>Foco</b></td>
+    <td>Endpoint Management • Security Operations • Automation</td>
+  </tr>
+</table>
+
+---
+
+## 🤖 METRATON AI — Automated Security Recon
+
+Ferramenta para automação de reconhecimento e análise inicial de superfície de ataque.
+
+<table>
+  <tr>
+    <td>🔎 Nmap Enumeration</td>
+    <td>🌐 HTTP Header Analysis</td>
+  </tr>
+  <tr>
+    <td>🧬 Technology Fingerprint</td>
+    <td>🛰️ DNS / WHOIS Collection</td>
+  </tr>
+  <tr>
+    <td>🧾 Technical Reports</td>
+    <td>🛡️ Attack Surface Mapping</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 Learning Path
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=OWASP+Top+10;PortSwigger+Academy;Hack+The+Box;TryHackMe;Threat+Hunting;Cloud+Security" />
+
+</div>
+
+```yaml
+Application Security:  ██████████ 90%
+Incident Response:     █████████░  85%
+Cloud Security:        ████████░░  80%
+Threat Hunting:        ███████░░░  75%
+Web Pentesting:        ███████░░░  75%
+Security Automation:   ████████░░  80%
 ```
 
 ---
 
-## > cat about.txt
+## 📚 Labs & Training
 
-Sou profissional de Tecnologia da Informação com experiência em Cibersegurança, Segurança de Aplicações, Resposta a Incidentes, Suporte N2/N3 e automação de processos.
-
-Atuei em ambientes produtivos com Cloudflare WAF, Microsoft Defender, SentinelOne, ThreatX e Azure Security, apoiando a proteção de aplicações web, investigação de alertas, mitigação de ataques e melhoria contínua da postura de segurança.
-
-Também desenvolvo projetos próprios, incluindo a autosla, uma plataforma automotiva full-stack criada para conectar motoristas a oficinas, autopeças, lava-jatos e prestadores de serviços.
-
----
-
-## > ls -la skills/
-
-### 🔵 Defensive Security
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare_WAF-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-7B2ABF?style=flat-square)
-![ThreatX](https://img.shields.io/badge/ThreatX-WAAP-111827?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-Detection_&_Monitoring-0F172A?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0052CC?style=flat-square)
-![MITRE ATT\&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square)
-
-### 🔴 Offensive & AppSec
-
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square\&logo=owasp)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square\&logo=burpsuite\&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web_Application_Security-111827?style=flat-square)
-![Pentest Web](https://img.shields.io/badge/Pentest_Web-7C3AED?style=flat-square)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square\&logo=hackthebox\&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square\&logo=tryhackme)
-
-### 🛠️ Dev & Automation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-
-### 🌐 Full-Stack & Web
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-FF6600?style=flat-square\&logo=cloudflare\&logoColor=white)
-
-### 🗄️ Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Security-0089D6?style=flat-square\&logo=microsoftazure\&logoColor=white)
+<table>
+  <tr>
+    <td>🟢 Hack The Box</td>
+    <td>Web exploitation • Linux • Privilege escalation</td>
+  </tr>
+  <tr>
+    <td>🟢 TryHackMe</td>
+    <td>Blue Team • SOC • Pentest fundamentals</td>
+  </tr>
+  <tr>
+    <td>🟢 PortSwigger Academy</td>
+    <td>Web Application Security • Burp Suite</td>
+  </tr>
+  <tr>
+    <td>🟢 OWASP Juice Shop</td>
+    <td>OWASP Top 10 practical labs</td>
+  </tr>
+  <tr>
+    <td>🟢 DVWA</td>
+    <td>Vulnerability testing environment</td>
+  </tr>
+</table>
 
 ---
 
-## > cat projects.md
-
-### 🚗 [autosla](https://autosla.com.br) — Automotive Services Platform
-
-> Plataforma automotiva full-stack para conectar proprietários de veículos a oficinas, autopeças, lava-jatos e prestadores de serviços.
-
-**Stack**
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* shadcn/ui
-* Supabase
-* PostgreSQL
-* Cloudflare Pages / Workers
-* Google Maps API
-* Mercado Pago / Pagar.me
-
-**Highlights**
-
-* Busca de estabelecimentos por categoria
-* Mapa interativo com localização de parceiros
-* Cadastro de usuários e estabelecimentos
-* Agendamento online de serviços
-* Perfil público para estabelecimentos
-* Sistema de avaliações
-* Dashboard operacional
-* Integração com pagamentos
-* Arquitetura serverless
-
----
-
-### 🔒 Mini-GPO — Corporate Endpoint Management System
-
-> Sistema para gerenciamento remoto de endpoints corporativos com agente leve e dashboard administrativo.
-
-**Stack**
-
-* Go
-* Python
-* Flask
-* MQTT
-* AES-256
-* GCP
-* HTML / CSS / JavaScript
-
-**Highlights**
-
-* Agente leve para endpoints
-* Fila offline
-* Auditoria de ações
-* Comunicação segura
-* Suporte multiplataforma
-* Painel administrativo
-
----
-
-### 🤖 METRATON AI — Automated Security Recon
-
-> Ferramenta de automação para reconhecimento, coleta de informações e análise inicial de superfície de ataque.
-
-**Features**
-
-* Enumeração com Nmap
-* Fingerprint de tecnologias
-* Análise de headers HTTP
-* Coleta DNS / WHOIS
-* Identificação de possíveis exposições
-* Apoio em relatórios técnicos
-
----
-
-### 🛡️ Cybersecurity Labs
-
-> Repositório para estudos práticos, write-ups, laboratórios autorizados e documentação de aprendizado.
-
-**Topics**
-
-* OWASP Top 10
-* Web Application Security
-* Burp Suite
-* PortSwigger Academy
-* Hack The Box
-* TryHackMe
-* DVWA
-* OWASP Juice Shop
-
----
-
-## > tail -f experience.log
+## 💼 Experiência
 
 ```bash
-[2025-07 → now]      IT Support & Security Analyst      @ allu.
-                    Logs · Python Automation · MongoDB · MySQL · BigQuery · Asset Management
+[2025 → Atual]
+IT Support & Security Analyst @ allu.
 
-[2025-01 → 2025-06]  IT Support Technician              @ TIERh
-                    Support · Troubleshooting · Networks · Systems · Documentation
+• Bug investigation
+• Log analysis
+• Python automation
+• MongoDB / MySQL / BigQuery
+• Asset management
+• Security operations
+• Infrastructure monitoring
 
-[2023-02 → 2024-07]  Cybersecurity Analyst              @ 123milhas
-                    Cloudflare WAF · Microsoft Defender · SentinelOne · ThreatX · Azure Security
+------------------------------------------------------------
 
-[2020-08 → 2023-02]  IT Technician / Support N2-N3       @ 123milhas
-                    Corporate Support · Windows · Linux · Networks · Incident Handling
+[2025]
+IT Support Technician @ TIERh
+
+• Technical support
+• Systems troubleshooting
+• Network diagnostics
+• Ticket documentation
+• User support
+
+------------------------------------------------------------
+
+[2023 → 2024]
+Cybersecurity Analyst @ 123milhas
+
+• Cloudflare WAF
+• Microsoft Defender
+• SentinelOne
+• ThreatX
+• Azure Security
+• Incident response
+• Security monitoring
+• Web application protection
+
+------------------------------------------------------------
+
+[2020 → 2023]
+IT Technician / Support N2-N3 @ 123milhas
+
+• Corporate support
+• Windows / Linux
+• Office 365
+• Active Directory
+• Network troubleshooting
+• Incident handling
 ```
 
 ---
 
-## > cat education.txt
+## 🎓 Formação
 
-```txt
-🎓 Ciência da Computação
-   Descomplica Faculdade Digital
-
-🎓 Defesa Cibernética
-   FIAP — início previsto para 2026
-```
-
----
-
-## > cat certs.txt
-
-```txt
-✅ Offensive Security Training       — Alura
-✅ CTF                               — Hacker Security
-✅ FrontEnd Development              — Descomplica
-✅ Object Oriented Programming       — Descomplica
-
-🎯 eJPT                              — planned
-🎯 CompTIA Security+                 — planned
-🎯 Microsoft SC-900                  — planned
-```
+<table>
+  <tr>
+    <td>🎓 Ciência da Computação</td>
+    <td>Descomplica Faculdade Digital</td>
+  </tr>
+  <tr>
+    <td>🎓 Defesa Cibernética</td>
+    <td>FIAP — início previsto para 2026</td>
+  </tr>
+</table>
 
 ---
 
-## > cat current_focus.txt
+## 🎯 Certificações e Estudos
 
-```txt
-Application Security
-Incident Response
-SOC / Blue Team
-Cloud Security
-Security Automation
-Web Pentesting
-```
+<table>
+  <tr>
+    <td>✅ Offensive Security Training</td>
+    <td>Alura</td>
+  </tr>
+  <tr>
+    <td>✅ CTF</td>
+    <td>Hacker Security</td>
+  </tr>
+  <tr>
+    <td>✅ Front-End Development</td>
+    <td>Descomplica</td>
+  </tr>
+  <tr>
+    <td>✅ Object Oriented Programming</td>
+    <td>Descomplica</td>
+  </tr>
+  <tr>
+    <td>🎯 eJPT</td>
+    <td>Planned</td>
+  </tr>
+  <tr>
+    <td>🎯 CompTIA Security+</td>
+    <td>Planned</td>
+  </tr>
+  <tr>
+    <td>🎯 Microsoft SC-900</td>
+    <td>Planned</td>
+  </tr>
+</table>
 
 ---
-
-## > ./stats.sh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4RKLUAN\&show_icons=true\&theme=github_dark\&hide_border=true\&bg_color=0d1117\&title_color=9fef00\&icon_color=9fef00\&text_color=c9d1d9)
+## 📈 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4RKLUAN\&layout=compact\&theme=github_dark\&hide_border=true\&bg_color=0d1117\&title_color=9fef00\&text_color=c9d1d9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4RKLUAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4RKLUAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=D4RKLUAN&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
 
 </div>
 
@@ -258,8 +407,34 @@ Web Pentesting
 
 <div align="center">
 
-### "An attacker's mindset. A defender's discipline."
+## 🟢 Status
 
-![Visitor Count](https://komarev.com/ghpvc/?username=D4RKLUAN\&color=9fef00\&style=flat-square\&label=profile+views)
+```txt
+Protecting Applications  ██████████
+Investigating Incidents  █████████░
+Building Products        ██████████
+Learning Security        ██████████
+Looking for Opportunities ██████████
+```
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<br><br>
+
+### Protect • Detect • Respond
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=An+attacker's+mindset.;A+defender's+discipline.;A+builder's+execution." />
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=D4RKLUAN\&style=for-the-badge\&color=00ff88)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00FF88,100:0D1117&height=120&section=footer" />
 
 </div>
