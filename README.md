@@ -343,12 +343,8 @@ IT Technician / Support N2-N3 @ 123milhas
 
 <table>
   <tr>
-    <td>🎓 Ciência da Computação</td>
-    <td>Descomplica Faculdade Digital</td>
-  </tr>
-  <tr>
     <td>🎓 Defesa Cibernética</td>
-    <td>FIAP — início previsto para 2026</td>
+    <td>FIA</td>
   </tr>
 </table>
 
