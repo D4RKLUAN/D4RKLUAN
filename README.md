@@ -344,7 +344,7 @@ IT Technician / Support N2-N3 @ 123milhas
 <table>
   <tr>
     <td>🎓 Defesa Cibernética</td>
-    <td>FIA</td>
+    <td>FIAP</td>
   </tr>
 </table>
 
